@@ -1,0 +1,40 @@
+                                          Feature  Coefficient  Abs_Coefficient
+4                              num__Tenure Months    -0.916464         0.916464
+34                         cat__Contract_Two year    -0.851229         0.851229
+3                                 num__Dependents    -0.613282         0.613282
+32                   cat__Contract_Month-to-month     0.486673         0.486673
+11                      cat__Internet Service_DSL    -0.392646         0.392646
+8                          cat__Multiple Lines_No    -0.378820         0.378820
+16                       cat__Online Security_Yes    -0.354444         0.354444
+7                            num__Monthly Charges     0.354076         0.354076
+25                          cat__Tech Support_Yes    -0.330696         0.330696
+36    cat__Payment Method_Credit card (automatic)    -0.309676         0.309676
+26                           cat__Streaming TV_No    -0.219756         0.219756
+15       cat__Online Security_No internet service    -0.204929         0.204929
+18         cat__Online Backup_No internet service    -0.204929         0.204929
+27          cat__Streaming TV_No internet service    -0.204929         0.204929
+21     cat__Device Protection_No internet service    -0.204929         0.204929
+13                       cat__Internet Service_No    -0.204929         0.204929
+30      cat__Streaming Movies_No internet service    -0.204929         0.204929
+24          cat__Tech Support_No internet service    -0.204929         0.204929
+19                         cat__Online Backup_Yes    -0.197172         0.197172
+29                       cat__Streaming Movies_No    -0.191023         0.191023
+6                          num__Paperless Billing     0.187192         0.187192
+35  cat__Payment Method_Bank transfer (automatic)    -0.159868         0.159868
+38               cat__Payment Method_Mailed check    -0.158593         0.158593
+20                      cat__Device Protection_No    -0.143547         0.143547
+22                     cat__Device Protection_Yes    -0.141305         0.141305
+37           cat__Payment Method_Electronic check     0.138357         0.138357
+2                                    num__Partner     0.130570         0.130570
+33                         cat__Contract_One year    -0.125225         0.125225
+12              cat__Internet Service_Fiber optic     0.107794         0.107794
+31                      cat__Streaming Movies_Yes    -0.093829         0.093829
+17                          cat__Online Backup_No    -0.087680         0.087680
+10                        cat__Multiple Lines_Yes    -0.087098         0.087098
+5                              num__Phone Service    -0.082731         0.082731
+14                        cat__Online Security_No     0.069592         0.069592
+28                          cat__Streaming TV_Yes    -0.065096         0.065096
+23                           cat__Tech Support_No     0.045844         0.045844
+1                             num__Senior Citizen     0.037405         0.037405
+9            cat__Multiple Lines_No phone service    -0.023863         0.023863
+0                                     num__Gender    -0.017191         0.017191
